@@ -1,16 +1,34 @@
-## Hi there 👋
+# Halo, Saya Felis Eren Cristi Milala! 👋
 
-<!--
-**feliseren/feliseren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=feliseren&label=Dilihat%20sebanyak&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-Here are some ideas to get you started:
+Saya adalah seorang **Mahasiswa Informatika** yang memiliki minat besar di bidang **Data Science** dan **Software Engineering**. Saya senang mengeksplorasi bagaimana data bisa diolah menjadi informasi yang bermanfaat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Teknologi & Keahlian
+
+- **Data Science:** YOLOv8 (Object Detection), XGBoost, Random Forest.
+- **Process Mining:** Analisis *event logs* menggunakan pustaka PM4PY.
+- **Pemrograman:** Python (Data Science), Java (Object Oriented Programming).
+- **Tools:** Google Colab, Git, Jupyter Notebook.
+
+### Proyek yang Dikerjakan
+- **Deteksi Masker:** Mengembangkan model deteksi real-time dengan YOLOv8.
+- **Analisis Proses:** Menganalisis *dwelling time* dan KPI pada log data industri.
+- **Feature Engineering:** Implementasi PCA untuk reduksi dimensi pada dataset kompleks.
+
+### Statistik GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliseren&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliseren&layout=compact&theme=radical&langs_count=6" />
+</p>
+
+### Mari Terhubung!
+<p align="left">
+<a href="[https://linkedin.com/in/feliseren](https://www.linkedin.com/in/feliseren/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Felis Eren" height="30" width="40" /></a>
+<a href="mailto:erenfelis05@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
+</p>
+
+> *"Cara terbaik untuk memprediksi masa depan adalah dengan menciptakannya."* — Alan Kay
