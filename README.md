@@ -20,9 +20,7 @@ Saya adalah seorang **Mahasiswa Informatika** yang memiliki minat besar di bidan
 
 ### Statistik GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=feliseren&show_icons=true&theme=radical&rank_icon=github&display_format=v2" alt="Statistik Felis" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliseren&layout=compact&theme=radical&langs_count=6" alt="Bahasa Pemrograman" />
+  <img height="180em" src="https://github-readme-stats-two-nu.vercel.app/api/top-langs/?username=feliseren&layout=compact&theme=radical&langs_count=6" alt="Bahasa Pemrograman" />
 </p>
 
 ### Mari Terhubung!
